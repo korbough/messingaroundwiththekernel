@@ -1,0 +1,1 @@
+savedcmd_/home/korbo/kernelpanic/roulette/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/korbo/kernelpanic/roulette/Module.symvers -n -T /home/korbo/kernelpanic/roulette/modules.order -i Module.symvers -e 

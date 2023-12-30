@@ -1,0 +1,1 @@
+savedcmd_/home/korbo/kernelpanic/roulette/roulette.mod := printf '%s\n'   roulette.o | awk '!x[$$0]++ { print("/home/korbo/kernelpanic/roulette/"$$0) }' > /home/korbo/kernelpanic/roulette/roulette.mod

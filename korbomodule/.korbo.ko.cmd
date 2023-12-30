@@ -1,0 +1,1 @@
+savedcmd_/home/korbo/kernelpanic/korbo.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/korbo/kernelpanic/korbo.ko /home/korbo/kernelpanic/korbo.o /home/korbo/kernelpanic/korbo.mod.o;  true
